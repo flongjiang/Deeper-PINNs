@@ -1,3 +1,3 @@
 # Deeper-PINNs
 
-We present the Deeper Physics-Informed Neural Network (Deeper-PINN), a novel architecture designed to address the degradation issue of deep PINNs.
+We present Deeper-PINN, a novel architecture designed to address the degradation issue of deep PINNs.
